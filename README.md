@@ -10,5 +10,9 @@ In this git repo, I will log the changes I make to my configuration. The `curren
 
 * Downloaded "config v5 - for Twiddler 3" [twiddler.cfg](https://github.com/AlexBravo/Twiddler/blob/503218723fd34da5b980b481b90596dbbef76a99/config%20v5%20-%20for%20Twiddler%203/twiddler.cfg).
 * Used DDRBoxman's twiddler-cfg conversion tool ([permalink](https://github.com/DDRBoxman/twiddler-cfg/tree/f4f90c8a1a455ce7b537eedeea85f899a53f1d70)) to convert it to Twiddler 4
-* Uploaded it to the Twiddler Tuner, and then downloaded it, to normalize any aberrations (there were none).
-
+* Uploaded it to the Twiddler Tuner, and then downloaded it, to normalize any aberrations (there were none, but I think there may still be (Maybe changes are lazily committed to the binary config? Sigh), because the Bluetooth system keybinds and whatnot were changed with the next set of changes).
+* Changed global T1 from nothing to "KB Left GUI".
+* Unbound global 0L and 0M. Changed global 0R to "Mouse Button Right".
+* Added 0L bound to KB `Ctrl-Alt-KP1` and 0M bound to KB `Ctrl-Alt-KP2` (to be handled by autohotkey)
+* Added LMMR bound to KB `'s`
+* Added MOML bound to KB `Ctrl-L`
