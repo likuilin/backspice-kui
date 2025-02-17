@@ -16,3 +16,4 @@ In this git repo, I will log the changes I make to my configuration. The `curren
 * Added 0L bound to KB `Ctrl-Alt-KP1` and 0M bound to KB `Ctrl-Alt-KP2` (to be handled by autohotkey)
 * Added LMMR bound to KB `'s`
 * Added MOML bound to KB `Ctrl-L`
+* Changed OMOR from KB `v` to KB `ea` and added OORM bound to KB `v`
