@@ -17,3 +17,4 @@ In this git repo, I will log the changes I make to my configuration. The `curren
 * Added LMMR bound to KB `'s`
 * Added MOML bound to KB `Ctrl-L`
 * Changed OMOR from KB `v` to KB `ea` and added OORM bound to KB `v`
+* Added cheatsheets, copied [originally from here](https://github.com/AlexBravo/Twiddler/blob/503218723fd34da5b980b481b90596dbbef76a99/Backspice2%20cheat%20sheet.txt) - `cheatsheet.txt` is abridged and only contains "canonical" representations of each key (more useful for learning), whereas `cheatsheet-all.txt` has all possible keys in each key-as-modifier cell (more useful for mapping).
